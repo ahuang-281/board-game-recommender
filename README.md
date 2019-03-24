@@ -6,3 +6,5 @@ This PDF introduces the motivation behind the project and details data gathering
 This Jupyter Notebook contains the code for gathering board game information and ratings from boardgamegeek.com using a combination of web scraping and requesting data from their public API.
 ## [bgg-data-clean.ipynb](https://github.com/ahuang-281/board-game-recommender/blob/master/bgg-data-clean.ipynb)
 This Jupyter Notebook contains the code for trimming the dataset of games or users with low numbers of ratings.  The ratings are then organized into a "long" data format for later input into the predictive models.
+## [bgg-data-interactive.ipynb](https://github.com/ahuang-281/board-game-recommender/blob/master/bgg-data-interactive.ipynb)
+This Jupyter Notebook contains an interactive visualization for comparing ratings between 2 users.  Figures are also provided to demonstrate examples for good and bad collaborative predictors for item ratings.
