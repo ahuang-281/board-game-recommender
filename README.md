@@ -1,5 +1,7 @@
-## This repository covers the development of a board game recommendation engine from start-to-finish.  The documents and notebooks for this project are described below, in order.
+## This repository covers the development of a board game recommendation engine from start-to-finish.  The documents and notebooks for this project are described below.
 #### Skill keywords:  Web Scraping, Data Wrangling, Exploratory Data Analysis, Collaborative Filtering, Machine Learning, k-Nearest Neighbors (kNN), Singular Value Decomposition (SVD)
+## [boardgamerecommender.pdf](https://github.com/ahuang-281/board-game-recommender/blob/master/boardgamerecommender.pdf)
+An overview of the boardgame recommender project and each version of the model.
 ## [proposal.pdf](https://github.com/ahuang-281/board-game-recommender/blob/master/proposal.pdf)
 Introduction and motivation behind the project. Data gathering and analysis methods to be used in the project are suggested.
 ## [bgg-data-scrape.ipynb](https://github.com/ahuang-281/board-game-recommender/blob/master/bgg-data-scrape.ipynb)
